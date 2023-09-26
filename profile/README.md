@@ -43,6 +43,7 @@
 6. Условные операторы - [Теория](https://github.com/shox-py/topic_6) | [Практика](https://github.com/shox-py/topic_6/blob/main/tasks/TASKS.md)
 7. Циклы - [Теория](https://github.com/shox-py/topic_7) | [Практика](https://github.com/shox-py/topic_7/blob/main/tasks/TASKS.md)
 8. Операторы управления циклом - [Теория](https://github.com/shox-py/topic_8) | [Практика](https://github.com/shox-py/topic_8/blob/main/tasks/TASKS.md)
+9. Работа со строками - [Теория](https://github.com/shox-py/topic_9) | [Практика](https://github.com/shox-py/topic_9/blob/main/tasks/TASKS.md)
 
 Telegram - [Канал](https://t.me/shox_py) | [Чат](https://t.me/shox_py_discuss)
 
